@@ -131,6 +131,10 @@ article p {
     padding-bottom: 1.5rem;
   }
 
+  article ol {
+    margin-bottom: 1.5rem;
+  }
+
   article p {
     margin-bottom: 1.5rem;
   }
